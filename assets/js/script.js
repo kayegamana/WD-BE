@@ -21,38 +21,38 @@ for (var i = 0; i < navLinks.length; i++) {
 var projects = [
     {
         link: "A08/index.php",
-        preview: "images/projectPreview1.png",
-        hover: "images/projectPreviewHover1.png",
+        preview: "assets/images/projectPreview1.png",
+        hover: "assets/images/projectPreviewHover1.png",
         alt: "Project 1"
     },
     {
         link: "index.php",
-        preview: "images/projectPreviewComingSoon.png",
-        hover: "images/projectPreviewComingSoon.png",
+        preview: "assets/images/projectPreviewComingSoon.png",
+        hover: "assets/images/projectPreviewComingSoon.png",
         alt: "Project 2"
     },
     {
         link: "index.php",
-        preview: "images/projectPreviewComingSoon.png",
-        hover: "images/projectPreviewComingSoon.png",
+        preview: "assets/images/projectPreviewComingSoon.png",
+        hover: "assets/images/projectPreviewComingSoon.png",
         alt: "Project 3"
     },
     {
         link: "index.php",
-        preview: "images/projectPreviewComingSoon.png",
-        hover: "images/projectPreviewComingSoon.png",
+        preview: "assets/images/projectPreviewComingSoon.png",
+        hover: "assets/images/projectPreviewComingSoon.png",
         alt: "Project 4"
     },
     {
         link: "index.php",
-        preview: "images/projectPreviewComingSoon.png",
-        hover: "images/projectPreviewComingSoon.png",
+        preview: "assets/images/projectPreviewComingSoon.png",
+        hover: "assets/images/projectPreviewComingSoon.png",
         alt: "Project 5"
     },
     {
         link: "index.php",
-        preview: "images/projectPreviewComingSoon.png",
-        hover: "images/projectPreviewComingSoon.png",
+        preview: "assets/images/projectPreviewComingSoon.png",
+        hover: "assets/images/projectPreviewComingSoon.png",
         alt: "Project 6"
     }
 ];
